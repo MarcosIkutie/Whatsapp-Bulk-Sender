@@ -9,4 +9,10 @@
 - Mantenha a janela do navegador aberta.
 - Não envie spam (siga as regras do WhatsApp).
 
-Precisa de ajuda? Envie um e-mail: [marcs.vdp@gmail.com]
+
+Precisa de ajuda? Envie um e-mail: marcosvdepaulo@gmail.com
+
+
+🛡️ Este projeto está protegido sob a licença Creative Commons CC BY-NC-SA 4.0.  
+Uso comercial requer autorização.  
+[Mais informações sobre a licença.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
